@@ -1,5 +1,5 @@
 <h1>Hello</h1>
-this is index.html file
+this is index.md file
 
 <ul>
   {% for post in site.posts %}
