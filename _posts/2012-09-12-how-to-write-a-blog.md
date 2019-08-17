@@ -21,7 +21,7 @@ var gitalk = new Gitalk({
   repo: 'hello-world',
   owner: 'muziapple',
   admin: ['muziapple'],
-  id: location.pathname,      // Ensure uniqueness and length less than 50
+  id: hello-comment,      // Ensure uniqueness and length less than 50
   distractionFreeMode: true  // Facebook-like distraction free mode
 })
 
