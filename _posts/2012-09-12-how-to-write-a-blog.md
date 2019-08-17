@@ -16,8 +16,8 @@ I hope you like it!
 
 <script type="text/javascript">
 var gitalk = new Gitalk({
-  clientID: 'e46f6dec7c07145c652c',
-  clientSecret: 'd1a0b627f9b76d21bd3080d1777d0aa0ad55dd83',
+  clientID: 'c305c9be47bb4eacc711',
+  clientSecret: '42c6ae49b86b3530db784b573e134d596a97609d',
   repo: 'hello-world',
   owner: 'muziapple',
   admin: ['muziapple'],
