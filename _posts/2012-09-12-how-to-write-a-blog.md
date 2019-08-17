@@ -27,3 +27,13 @@ var gitalk = new Gitalk({
 
 gitalk.render('gitalk-container');
 </script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1f747fed6a39d6171c558dee0dbe8eb7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
