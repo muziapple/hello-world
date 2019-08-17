@@ -8,7 +8,7 @@ title:  Welcome to Jekyll!
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
-
+<title>how to write a blog</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 
@@ -21,7 +21,7 @@ var gitalk = new Gitalk({
   repo: 'hello-world',
   owner: 'muziapple',
   admin: ['muziapple'],
-  id: 'hello-comment',      // Ensure uniqueness and length less than 50
+  id: location.pathname,      // Ensure uniqueness and length less than 50
   distractionFreeMode: true  // Facebook-like distraction free mode
 })
 
